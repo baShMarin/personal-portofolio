@@ -578,7 +578,7 @@ body{
 .social-links a:hover > .fa-pinterest{
 	color: #cb2027;
 }
-.fa-ellipsis-v{
+.fa-bars{
 	position: absolute;
 	top: 20px;
 	right: 20px;
@@ -957,7 +957,7 @@ body{
 	.copyright p{
 		margin-top: 15px;
 	}
-	.fa-ellipsis-v{
+	.fa-bars{
 		visibility: visible;
 	}
 	#wrapper #main-area{

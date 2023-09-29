@@ -1,6 +1,6 @@
 $(document).ready(function(){
 	
-	$(".fa-ellipsis-v").click(function(){
+	$(".fa-bars").click(function(){
 
 		$("#wrapper #sidebar").toggleClass("menu-height");
 	});
